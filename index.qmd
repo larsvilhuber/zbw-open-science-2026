@@ -41,14 +41,21 @@ WEBSITE_SHORT <- paste0(GITHUB_REPOSITORY_PARTS[1], ".github.io/", GITHUB_REPOSI
 ```{r, child=c("00-follow-along.qmd")}
 ```
 
-{{< include 01-problem.qmd >}}
+{{< include 00-whoami.md >}}
+
+
+{{< include 01-openscience.qmd >}}
+
+
+{{< include 11-problem.qmd >}}
 
 {{< include 02-state-of-research.qmd >}}
 
 {{< include 03-trace-framework.qmd >}}
 
-{{< include 04-trov-tro.qmd >}}
+# Thank you
 
-{{< include 05-sivacor.qmd >}}
+{{< include 99-links.qmd >}}
 
-{{< include 07-development.qmd >}}
+# Appendix
+

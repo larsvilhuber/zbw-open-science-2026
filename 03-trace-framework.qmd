@@ -145,25 +145,6 @@ Add a few computationally easy steps:
 
 # Scenarios TRACE Addresses
 
-## SCN1 — Journal reproducibility checks
-
-::: {.highlight-box}
-
-Authors use SIVACOR to demonstrate push-button reproducibility before submission. Journals with and without data editors can rely on the TRACE-compliant package. 
-
-:::
-
-Estimated **20–40%** of AEA submissions are amenable to this.
-
-## SCN2 — Certification at the source
-
-::: {.highlight-box}
-
-Long-running jobs on university clusters via SLURM can be configured with TRACE-compliant queues. 
-
-:::
-
-**Universities become producers of TROs**, providing enhanced credibility to affiliated researchers.
 
 ## SCN3 — Restricted access data environments
 
@@ -175,21 +156,3 @@ RADCs have no vested interest in any particular paper — they satisfy the arms-
 
 Partners at **central banks** (and World Bank!) are already implementing TRACE-compliant capabilities.
 
-## SCN4 — Comparing reproducibility services
-
-::: {.highlight-box}
-
-TRACE provides a systematic, standardized vocabulary — machine- and human-readable — to compare Codeocean, cascad, World Bank, and others.
-
-:::
-
-## SCN5 — Transient resources (5/5)
-
-::: {.highlight-box}
-
-
-When data or services used in computation may no longer be available, TRACE provides a record of what existed at the time of execution. 
-
-:::
-
-For instance, **deprecated commercial LLM APIS!**

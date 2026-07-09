@@ -1,85 +1,5 @@
 # The Problem
 
-## Computational Reproducibility in the Social Sciences
-
-- Research communities increasingly require sharing of **data, code, and methods**
-- Trend is clear: *any data* that can reasonably be shared, and all code, *should be made available*
-- Consumers combine data and code, **re-run it**, and validate the analysis
-
-
-## Computational Reproducibility in the Social Sciences
-
-**But what makes this hard in practice?**
-
-:::: {.columns}
-::: {.column width="70%}
-
-- Data withheld for *ethical*, legal, or contractual reasons
-
-:::
-::: {.column width="30%}
-
-![](./figs/imprivata-privacy.png)
-
-:::
-::::
-
-## Computational Reproducibility in the Social Sciences
-
-**But what makes this hard in practice?**
-
-:::: {.columns}
-::: {.column width="70%}
-
-- Data withheld for ethical, legal, or contractual reasons
-- Processing is time-consuming or requires *rare computing* resources
-
-:::
-::: {.column width="30%}
-
-![](./figs/Cray-Supercomputer-1233168151.png)
-
-:::
-::::
-
-## Computational Reproducibility in the Social Sciences
-
-**But what makes this hard in practice?**
-
-:::: {.columns}
-::: {.column width="70%}
-
-- Data withheld for ethical, legal, or contractual reasons
-- Processing is time-consuming or requires rare computing resources
-- Raw data may be transient, ephemeral, or *deleted*
-
-:::
-::: {.column width="30%}
-
-![](./figs/whitehouse-404.jpg)
-
-:::
-::::
-
-
-## Recent Evidence
-
-A 2026 issue of *Nature* on social science reproducibility:
-
-::::{.columns}
-
-::: {.column width="50%}
-
-- Headline: **"Half of social-science studies fail replication test"**
-  - But: only *30% of articles yielded data*
-
-:::
-::: {.column width="50%}
-
-![Fig 2, Tyne et al. (2026)](figs/Screenshot%202026-04-21%20at%2019-44-25%20Fig.%202%20Data%20and%20code%20availability%20by%20field.%20Nature.png)
-
-:::
-::::
 
 ## Recent Evidence
 
@@ -129,7 +49,7 @@ A 2026 issue of *Nature* on social science reproducibility:
 
 ::: {.column width="50%}
 
-- Brodeur et al. (2026), crowdsourced with Sloan funding:
+- Brodeur et al. (2026), crowdsourced:
   - *85% of 110 articles* (2022–2023) were reproducible
   - Required **80 replication games** and **3,500+ researchers**
 

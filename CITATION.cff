@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Open Science in Economics
+message: >-
+  Presented at ZBW on July 9, 2026
+type: presentation
+authors:
+  - given-names: Lars
+    family-names: Vilhuber
+    email: lars.vilhuber@cornell.edu
+    affiliation: Cornell University
+    orcid: 'https://orcid.org/0000-0001-5733-8932'
+repository-code: >-
+  https://github.com/larsvilhuber/zbw-open-science-2026/
+abstract: >-
+  How do you do open science when much data is not freely available?
+license: CC-BY-NC-4.0
+date-released: '2026-07-09'

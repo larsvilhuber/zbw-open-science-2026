@@ -1,0 +1,37 @@
+## Additional info
+
+- [Credibly conducting surveys](https://labordynamicsinstitute.github.io/tutorial-preserving-survey/presentation/#/title-slide) 
+- [Reproducibility when data are confidential](https://labordynamicsinstitute.github.io/reproducibility-confidential/presentation/)
+- [Sharing not-for-publication data with AEA Data Editor](https://aeadataeditor.github.io/aea-de-guidance/sharing-restricted-data)
+- [More about TRACE and SIVACOR](https://transparency-certified.github.io/trace-sivacor-presentation-2026)
+
+## Further reading
+
+> Schmidt, Klaus M., Levent Neyse, Marianne Saam, Doreen Siegfried, Lars Vilhuber, and Joachim Winter. 2026. "*Open Science in Den Wirtschaftswissenschaften: Transparenz, Reproduzierbarkeit Und Zugang*." Perspektiven Der Wirtschaftspolitik. <https://doi.org/10.1515/pwp-2026-0019>.
+
+> Vilhuber, Lars. 2025. "*Reproducibility and Open Science in Economics*." Revue Économique 76 (5). <https://doi.org/10.3917/reco.765.0697>.
+
+--- 
+
+
+:::: {.columns}
+
+::: {.column width="30%"}
+
+:::
+
+::: {.column width="40%"}
+
+![](qrcode.png){width="350" height="350"}
+
+
+:::
+
+::: {.column width="30%"}
+
+:::
+
+::::
+
+- This document's source: <`r REPOSITORY_URL`>
+- Licensed under [![CC BY-NC 4.0](/images/cc-by-nc-80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
